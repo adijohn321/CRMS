@@ -1,0 +1,284 @@
+C:\Users\Dell\source\repos\CAPSTONEPROJ\bin\Debug\CAPSTONEPROJ.exe.config
+C:\Users\Dell\source\repos\CAPSTONEPROJ\bin\Debug\CAPSTONEPROJ.exe
+C:\Users\Dell\source\repos\CAPSTONEPROJ\bin\Debug\CAPSTONEPROJ.pdb
+C:\Users\Dell\source\repos\CAPSTONEPROJ\bin\Debug\MySql.Data.DLL
+C:\Users\Dell\source\repos\CAPSTONEPROJ\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\Dell\source\repos\CAPSTONEPROJ\bin\Debug\Renci.SshNet.dll
+C:\Users\Dell\source\repos\CAPSTONEPROJ\bin\Debug\Renci.SshNet.xml
+C:\Users\Dell\source\repos\CAPSTONEPROJ\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.PatientRecordFileFRM.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.ProfileFRM.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.RecordsFRM.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.LoginForm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.MainForm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Properties.Resources.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.Admission.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.Consultation.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.Discharge.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.Prenatal.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionFRM.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.WelcomeForm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.exe
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.pdb
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.BillingTransaction.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteReligionfrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeletePatientfrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteEmployeefrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteProvincefrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.InPatientFRM.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.OutPatientFRM.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteCityMunicipalityfrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteBarangayfrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteEmployeeTitlefrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteChildrenfrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Utilities.CreateUser.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Utilities.UtilityCreatUserfrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Utilities.UtilityChangePasswordfrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Report.PrenatalReportFrm.resources
+C:\Users\Dell\source\repos\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.PaymentFRM.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CAPSTONEPROJ.exe.config
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CAPSTONEPROJ.exe
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CAPSTONEPROJ.pdb
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\Renci.SshNet.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\Renci.SshNet.xml
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteBarangayfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteEmployeeTitlefrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteEmployeefrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeletePatientfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteCityMunicipalityfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteProvincefrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteReligionfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.PatientRecordFileFRM.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.RecordsFRM.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.LoginForm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.MainForm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Properties.Resources.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Utilities.UtilityChangePasswordfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Utilities.CreateUser.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Utilities.UtilityCreatUserfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.WelcomeForm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.exe
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.pdb
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\stdole.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.BillingReport.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteServiceandMedicine.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageEditDeleteNewbornfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditPediatricPatient.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteDiscountfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteRoomBedfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Report.ReportNewbornfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Report.ReportPrenatalfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionBillingfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionInpatientsfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionOutPatientfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientAdmissionfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientConsultationfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPaymentfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientDischargefrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientPrenatalfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.InquiryPatirntInformationfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.InquiryMotherProfile.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.GiveMed.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPayBillfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionGetSymptomsfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CAPSTONEPROJ.exe.config
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CAPSTONEPROJ.exe
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CAPSTONEPROJ.pdb
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\Renci.SshNet.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\stdole.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\Renci.SshNet.xml
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.BillingReport.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteBarangayfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteDiscountfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteEmployeeTitlefrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteEmployeefrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeletePatientfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteCityMunicipalityfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteProvincefrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteReligionfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteRoomBedfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteServiceandMedicine.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditPediatricPatient.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageEditDeleteNewbornfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.InquiryPatirntInformationfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.PatientRecordFileFRM.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.InquiryMotherProfile.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.RecordsFRM.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.LoginForm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.MainForm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Properties.Resources.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Report.ReportNewbornfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Report.ReportPrenatalfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.GiveMed.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionBillingfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionGetSymptomsfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionInpatientsfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionOutPatientfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientAdmissionfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientConsultationfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPayBillfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPaymentfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientDischargefrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientPrenatalfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Utilities.UtilityChangePasswordfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Utilities.CreateUser.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Utilities.UtilityCreatUserfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.WelcomeForm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.exe
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.pdb
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.ChargePatient.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteMedicinefrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageNewbornfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.ChargeItemsMenu.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.List_of_Register_Patient.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.Apgarscorefrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.AMSTLandEINC.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.MAnagenondrugs.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Billing.BillPrinting.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.GiveNonDrugs.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.DeliveryInformationfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Report.ReportDeliveries.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Transaction.DischargeIinformationfrm.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.File_Management.ManageBrands.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Billing.CashierTab.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Inquiry.Delivery.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Report.ReportSales.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Report.SalesReport.SalesReports.resources
+C:\Users\asus\Desktop\CAPSTONEPROJHOIUMAYOSKA\CAPSTONEPROJ\obj\Debug\CAPSTONEPROJ.Report.OR.OR_Form.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CAPSTONEPROJ.exe.config
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CAPSTONEPROJ.exe
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CAPSTONEPROJ.pdb
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\Renci.SshNet.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\stdole.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\Renci.SshNet.xml
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.BillingReport.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Billing.BillPrinting.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Billing.CashierTab.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageBrands.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.MAnagenondrugs.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.List_of_Register_Patient.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteBarangayfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteDiscountfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteEmployeeTitlefrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteEmployeefrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteMedicinefrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeletePatientfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteCityMunicipalityfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteProvincefrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteReligionfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteRoomBedfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditDeleteServiceandMedicine.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageAddEditPediatricPatient.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageEditDeleteNewbornfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.File_Management.ManageNewbornfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Inquiry.Delivery.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Inquiry.InquiryPatirntInformationfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Inquiry.PatientRecordFileFRM.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Inquiry.InquiryMotherProfile.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Inquiry.RecordsFRM.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.LoginForm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.MainForm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Properties.Resources.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Report.OR.OR_Form.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Report.ReportDeliveries.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Report.ReportNewbornfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Report.ReportPrenatalfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Report.ReportSales.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Report.SalesReport.SalesReports.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.AMSTLandEINC.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.Apgarscorefrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.ChargeItemsMenu.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.ChargePatient.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.DeliveryInformationfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.DischargeIinformationfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.GiveMed.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.GiveNonDrugs.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.TransactionBillingfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.TransactionGetSymptomsfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.TransactionInpatientsfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.TransactionOutPatientfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientAdmissionfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientConsultationfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPayBillfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPaymentfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientDischargefrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Transaction.TransactionPatientPrenatalfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Utilities.UtilityChangePasswordfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Utilities.CreateUser.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.Utilities.UtilityCreatUserfrm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.WelcomeForm.resources
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.exe
+C:\Users\asus\Desktop\CRMBS FOR SAFRAH BIRTHING CLINIC\SYSTEM\CRMBS FOR SAFRAH BIRTHING CLINIC\obj\Debug\CAPSTONEPROJ.pdb

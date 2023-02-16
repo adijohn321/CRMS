@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{652CE63D-B25C-4F6C-8AB4-6854032C24AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CAPSTONEPROJ</RootNamespace>
+    <AssemblyName>CAPSTONEPROJ</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.17.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>D:\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet, Version=2016.1.0.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106, processorArchitecture=MSIL">
+      <HintPath>packages\SSH.NET.2016.1.0\lib\net40\Renci.SshNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet.Async, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Renci.SshNet.Async.1.4.0\lib\net40\Renci.SshNet.Async.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add_to_list_dataset.cs">
+      <DependentUpon>add_to_list_dataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BillingCrystalReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BillingCrystalReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BillingReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillingReport.Designer.cs">
+      <DependentUpon>BillingReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Billing\BillPrinting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Billing\BillPrinting.Designer.cs">
+      <DependentUpon>BillPrinting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Billing\billsReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>billsReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Billing\CashierTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Billing\CashierTab.Designer.cs">
+      <DependentUpon>CashierTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Billing\DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Billing\DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Billing\Subreport\medicine.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>medicine.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Billing\Subreport\nonmed.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>nonmed.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Billing\Subreport\room.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>room.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Billing\Subreport\services.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>services.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crData.cs">
+      <DependentUpon>crData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="crData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Database.cs" />
+    <Compile Include="DropDownAdd.cs" />
+    <Compile Include="File Management\ManageBrands.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageBrands.Designer.cs">
+      <DependentUpon>ManageBrands.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\MAnagenondrugs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\MAnagenondrugs.Designer.cs">
+      <DependentUpon>MAnagenondrugs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\RegisteredPatientList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\RegisteredPatientList.Designer.cs">
+      <DependentUpon>RegisteredPatientList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteBarangayfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteBarangayfrm.Designer.cs">
+      <DependentUpon>ManageAddEditDeleteBarangayfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteDiscountfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteDiscountfrm.Designer.cs">
+      <DependentUpon>ManageAddEditDeleteDiscountfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteEmployeeTitlefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteEmployeeTitlefrm.Designer.cs">
+      <DependentUpon>ManageAddEditDeleteEmployeeTitlefrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteEmployeefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteEmployeefrm.Designer.cs">
+      <DependentUpon>ManageAddEditDeleteEmployeefrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteMedicinefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteMedicinefrm.Designer.cs">
+      <DependentUpon>ManageAddEditDeleteMedicinefrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeletePatientfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeletePatientfrm.Designer.cs">
+      <DependentUpon>ManageAddEditDeletePatientfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteCityMunicipalityfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteCityMunicipalityfrm.Designer.cs">
+      <DependentUpon>ManageAddEditDeleteCityMunicipalityfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteProvincefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteProvincefrm.Designer.cs">
+      <DependentUpon>ManageAddEditDeleteProvincefrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteReligionfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteReligionfrm.Designer.cs">
+      <DependentUpon>ManageAddEditDeleteReligionfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteRoomBedfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteRoomBedfrm.Designer.cs">
+      <DependentUpon>ManageAddEditDeleteRoomBedfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteServiceandMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditDeleteServiceandMedicine.Designer.cs">
+      <DependentUpon>ManageAddEditDeleteServiceandMedicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditPediatricPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageAddEditPediatricPatient.Designer.cs">
+      <DependentUpon>ManageAddEditPediatricPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageEditDeleteNewbornfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageEditDeleteNewbornfrm.Designer.cs">
+      <DependentUpon>ManageEditDeleteNewbornfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File Management\ManageNewbornfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Management\ManageNewbornfrm.Designer.cs">
+      <DependentUpon>ManageNewbornfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inquiry\Delivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inquiry\Delivery.Designer.cs">
+      <DependentUpon>Delivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inquiry\InquiryPatirntInformationfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inquiry\InquiryPatirntInformationfrm.Designer.cs">
+      <DependentUpon>InquiryPatirntInformationfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inquiry\PatientRecordFileFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inquiry\PatientRecordFileFRM.Designer.cs">
+      <DependentUpon>PatientRecordFileFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inquiry\InquiryMotherProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inquiry\InquiryMotherProfile.Designer.cs">
+      <DependentUpon>InquiryMotherProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inquiry\RecordsFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inquiry\RecordsFRM.Designer.cs">
+      <DependentUpon>RecordsFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MedicineDB.cs" />
+    <Compile Include="NewbornDB.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="add_to_list_dataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>add_to_list_dataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\OR\OR Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\OR\OR Form.Designer.cs">
+      <DependentUpon>OR Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\OR\ORCrystalReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ORCrystalReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\OR\PesoConverter.cs" />
+    <Compile Include="Report\ReportDeliveries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ReportDeliveries.Designer.cs">
+      <DependentUpon>ReportDeliveries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ReportNewborn.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportNewborn.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\ReportNewbornfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ReportNewbornfrm.Designer.cs">
+      <DependentUpon>ReportNewbornfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ReportPrenatalfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ReportPrenatalfrm.Designer.cs">
+      <DependentUpon>ReportPrenatalfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ReportSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ReportSales.Designer.cs">
+      <DependentUpon>ReportSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\SalesReport\SalesCrystalReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesCrystalReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\SalesReport\SalesReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\SalesReport\SalesReports.Designer.cs">
+      <DependentUpon>SalesReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\AMSTLandEINC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\AMSTLandEINC.Designer.cs">
+      <DependentUpon>AMSTLandEINC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\Apgarscorefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Apgarscorefrm.Designer.cs">
+      <DependentUpon>Apgarscorefrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ChargeItemsMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ChargeItemsMenu.Designer.cs">
+      <DependentUpon>ChargeItemsMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ChargePatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ChargePatient.Designer.cs">
+      <DependentUpon>ChargePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\DeliveryInformationfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\DeliveryInformationfrm.Designer.cs">
+      <DependentUpon>DeliveryInformationfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\DischargeIinformationfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\DischargeIinformationfrm.Designer.cs">
+      <DependentUpon>DischargeIinformationfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\GiveMed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\GiveMed.Designer.cs">
+      <DependentUpon>GiveMed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\GiveNonDrugs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\GiveNonDrugs.Designer.cs">
+      <DependentUpon>GiveNonDrugs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\TransactionBillingfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\TransactionBillingfrm.Designer.cs">
+      <DependentUpon>TransactionBillingfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\TransactionGetSymptomsfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\TransactionGetSymptomsfrm.Designer.cs">
+      <DependentUpon>TransactionGetSymptomsfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\TransactionInpatientsfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\TransactionInpatientsfrm.Designer.cs">
+      <DependentUpon>TransactionInpatientsfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\TransactionOutPatientfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\TransactionOutPatientfrm.Designer.cs">
+      <DependentUpon>TransactionOutPatientfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\TransactionPatientAdmissionfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\TransactionPatientAdmissionfrm.Designer.cs">
+      <DependentUpon>TransactionPatientAdmissionfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\TransactionPatientConsultationfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\TransactionPatientConsultationfrm.Designer.cs">
+      <DependentUpon>TransactionPatientConsultationfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\TransactionPayBillfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\TransactionPayBillfrm.Designer.cs">
+      <DependentUpon>TransactionPayBillfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\TransactionPaymentfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\TransactionPaymentfrm.Designer.cs">
+      <DependentUpon>TransactionPaymentfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\TransactionPatientDischargefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\TransactionPatientDischargefrm.Designer.cs">
+      <DependentUpon>TransactionPatientDischargefrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\TransactionPatientPrenatalfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\TransactionPatientPrenatalfrm.Designer.cs">
+      <DependentUpon>TransactionPatientPrenatalfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\UtilityChangePasswordfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilities\UtilityChangePasswordfrm.Designer.cs">
+      <DependentUpon>UtilityChangePasswordfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\CreateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilities\CreateUser.Designer.cs">
+      <DependentUpon>CreateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\UtilityCreatUserfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilities\UtilityCreatUserfrm.Designer.cs">
+      <DependentUpon>UtilityCreatUserfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomeForm.Designer.cs">
+      <DependentUpon>WelcomeForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BillingCrystalReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BillingCrystalReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillingReport.resx">
+      <DependentUpon>BillingReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing\BillPrinting.resx">
+      <DependentUpon>BillPrinting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing\billsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>billsReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing\CashierTab.resx">
+      <DependentUpon>CashierTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing\Subreport\medicine.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>medicine.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing\Subreport\nonmed.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>nonmed.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing\Subreport\room.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>room.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing\Subreport\services.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>services.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageBrands.resx">
+      <DependentUpon>ManageBrands.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\MAnagenondrugs.resx">
+      <DependentUpon>MAnagenondrugs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\RegisteredPatientList.resx">
+      <DependentUpon>RegisteredPatientList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeleteBarangayfrm.resx">
+      <DependentUpon>ManageAddEditDeleteBarangayfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeleteDiscountfrm.resx">
+      <DependentUpon>ManageAddEditDeleteDiscountfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeleteEmployeeTitlefrm.resx">
+      <DependentUpon>ManageAddEditDeleteEmployeeTitlefrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeleteEmployeefrm.resx">
+      <DependentUpon>ManageAddEditDeleteEmployeefrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeleteMedicinefrm.resx">
+      <DependentUpon>ManageAddEditDeleteMedicinefrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeletePatientfrm.resx">
+      <DependentUpon>ManageAddEditDeletePatientfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeleteCityMunicipalityfrm.resx">
+      <DependentUpon>ManageAddEditDeleteCityMunicipalityfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeleteProvincefrm.resx">
+      <DependentUpon>ManageAddEditDeleteProvincefrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeleteReligionfrm.resx">
+      <DependentUpon>ManageAddEditDeleteReligionfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeleteRoomBedfrm.resx">
+      <DependentUpon>ManageAddEditDeleteRoomBedfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditDeleteServiceandMedicine.resx">
+      <DependentUpon>ManageAddEditDeleteServiceandMedicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageAddEditPediatricPatient.resx">
+      <DependentUpon>ManageAddEditPediatricPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageEditDeleteNewbornfrm.resx">
+      <DependentUpon>ManageEditDeleteNewbornfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Management\ManageNewbornfrm.resx">
+      <DependentUpon>ManageNewbornfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inquiry\Delivery.resx">
+      <DependentUpon>Delivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inquiry\InquiryPatirntInformationfrm.resx">
+      <DependentUpon>InquiryPatirntInformationfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inquiry\PatientRecordFileFRM.resx">
+      <DependentUpon>PatientRecordFileFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inquiry\InquiryMotherProfile.resx">
+      <DependentUpon>InquiryMotherProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inquiry\RecordsFRM.resx">
+      <DependentUpon>RecordsFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\OR\OR Form.resx">
+      <DependentUpon>OR Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\OR\ORCrystalReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ORCrystalReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportDeliveries.resx">
+      <DependentUpon>ReportDeliveries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportNewborn.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportNewborn.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportNewbornfrm.resx">
+      <DependentUpon>ReportNewbornfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportPrenatalfrm.resx">
+      <DependentUpon>ReportPrenatalfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportSales.resx">
+      <DependentUpon>ReportSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\SalesReport\SalesCrystalReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SalesCrystalReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\SalesReport\SalesReports.resx">
+      <DependentUpon>SalesReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\AMSTLandEINC.resx">
+      <DependentUpon>AMSTLandEINC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Apgarscorefrm.resx">
+      <DependentUpon>Apgarscorefrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ChargeItemsMenu.resx">
+      <DependentUpon>ChargeItemsMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ChargePatient.resx">
+      <DependentUpon>ChargePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\DeliveryInformationfrm.resx">
+      <DependentUpon>DeliveryInformationfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\DischargeIinformationfrm.resx">
+      <DependentUpon>DischargeIinformationfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\GiveMed.resx">
+      <DependentUpon>GiveMed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\GiveNonDrugs.resx">
+      <DependentUpon>GiveNonDrugs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\TransactionBillingfrm.resx">
+      <DependentUpon>TransactionBillingfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\TransactionGetSymptomsfrm.resx">
+      <DependentUpon>TransactionGetSymptomsfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\TransactionInpatientsfrm.resx">
+      <DependentUpon>TransactionInpatientsfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\TransactionOutPatientfrm.resx">
+      <DependentUpon>TransactionOutPatientfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\TransactionPatientAdmissionfrm.resx">
+      <DependentUpon>TransactionPatientAdmissionfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\TransactionPatientConsultationfrm.resx">
+      <DependentUpon>TransactionPatientConsultationfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\TransactionPayBillfrm.resx">
+      <DependentUpon>TransactionPayBillfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\TransactionPaymentfrm.resx">
+      <DependentUpon>TransactionPaymentfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\TransactionPatientDischargefrm.resx">
+      <DependentUpon>TransactionPatientDischargefrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\TransactionPatientPrenatalfrm.resx">
+      <DependentUpon>TransactionPatientPrenatalfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utilities\UtilityChangePasswordfrm.resx">
+      <DependentUpon>UtilityChangePasswordfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utilities\CreateUser.resx">
+      <DependentUpon>CreateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utilities\UtilityCreatUserfrm.resx">
+      <DependentUpon>UtilityCreatUserfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomeForm.resx">
+      <DependentUpon>WelcomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Billing\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Billing\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Billing\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="crData.xsc">
+      <DependentUpon>crData.xsd</DependentUpon>
+    </None>
+    <None Include="crData.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>crData.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="crData.xss">
+      <DependentUpon>crData.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="add_to_list_dataset.xsc">
+      <DependentUpon>add_to_list_dataset.xsd</DependentUpon>
+    </None>
+    <None Include="add_to_list_dataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>add_to_list_dataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="add_to_list_dataset.xss">
+      <DependentUpon>add_to_list_dataset.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-mother-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-newborn-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-medicine-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-exit-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-medicine-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-exit-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-user-female-skin-type-7-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-mother-60 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-newborn-60 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-mother-60 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-list-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CrystalReports\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-pay-60.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
